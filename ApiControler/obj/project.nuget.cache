@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/a8OoyROIeXk9/bErl9RKi/Q2h4AE1CHiMSaAZjBsC1RjORi6pcVtsxo03Qa35qu1DrpOgG6wg5db8QWXGFqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\Downloads\\GIRARD_Adrien_TP3_ST2API-main\\WITT_Jonathan_TP3_ST2API\\ApiControler\\ApiControler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
